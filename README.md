@@ -1,1 +1,2 @@
-# Wine-Quality-Prediction
+### Wine Quality Prediction Using Machine Learning  
+This project focuses on predicting the quality of red wine based on physicochemical properties such as fixed acidity, volatile acidity, citric acid, residual sugar, and alcohol content. The dataset consists of 1,599 samples with 11 input features and a quality score ranging from 0 to 10. Exploratory Data Analysis (EDA) was performed to identify correlations between features and wine quality. Decision Tree and Random Forest models were trained and evaluated, achieving high accuracy in predicting wine quality. The models were compared using performance metrics such as accuracy, precision, recall, and F1-score to determine the best-performing algorithm.
